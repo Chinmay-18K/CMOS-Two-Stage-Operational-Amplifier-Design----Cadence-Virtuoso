@@ -49,6 +49,10 @@ The second stage consists of:
 
 The output of the first stage drives the gate of M6. The second stage provides additional voltage gain and drives the final output node.
 
+### Design Architecture
+
+![Two stage OPAMP Design](two_stage_opamp.png)
+
 ---
 
 ## Simplified Architecture
